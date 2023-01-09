@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pproger&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/PPROGER/PPROGER/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/pproger/pproger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pproger/pproger/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
 <h2> 📫 &nbsp;How to reach me</h2>
