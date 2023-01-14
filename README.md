@@ -1,17 +1,6 @@
 <h2> 👋 Hi, I’m Andrii</h2>
 
 <h2> 💻 &nbsp;My Github History</h2>
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=pproger&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=pproger&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=pproger&show_icons=true" />
-</picture>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/pproger/pproger/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/pproger/pproger/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
