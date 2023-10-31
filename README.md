@@ -7,9 +7,9 @@
 
 <h2> 📫 &nbsp;How to reach me</h2>
 <p align="left">
-  <a href="https://www.instagram.com/nice_boy.10/">
+<!--   <a href="https://www.instagram.com/nice_boy.10/">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/>
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/andrii-korniienko-546124186/">
     <img height="50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
   </a>
