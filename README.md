@@ -10,7 +10,7 @@
 	<a href="https://linkedin.com/in/andrii-korniienko-546124186" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 			alt="andrii-korniienko-546124186" height="30" width="40" /></a>
-	<a href="https://instagram.com/nice_boy.10" target="blank"><img align="center"
+	<a href="https://www.instagram.com/p_proger" target="blank"><img align="center"
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 			alt="nice_boy.10" height="30" width="40" /></a>
 </p>
