@@ -14,7 +14,7 @@
 			src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 			alt="nice_boy.10" height="30" width="40" /></a>
 	<a href="https://youtube.com/@pproger?si=mAhyTjK-MNETJ7XF" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pproger" height="30" width="40" /></a>
-	<a href="https://www.twitch.tv/p_proger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="pproger" height="30" width="40" /></a>
+	<a href="https://www.twitch.tv/ppr0ger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="pproger" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -90,8 +90,12 @@
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
 			height="40" /> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img
 			src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn"
-			width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-			src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> <a
+			width="40" height="40" /> </a> <a href="https://hono.dev/" target="_blank" rel="noreferrer"> <img
+			src="https://github.com/gilbarbara/logos/blob/main/logos/hono.svg" alt="sqlite" width="40" height="40" /> </a>
+	<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img
+			src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Light.svg" alt="sqlite" width="40" height="40" /> </a>
+	<a href="https://htmx.org/" target="_blank" rel="noreferrer"> <img
+			src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Light.svg" alt="sqlite" width="40" height="40" /> </a><a
 		href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img
 			src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
 	</a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img
